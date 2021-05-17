@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/down-arrow.png</file>
+        <file>img/left-arrow.png</file>
+        <file>img/刷新.svg</file>
+        <file>img/相机.svg</file>
+        <file>img/关闭.svg</file>
+        <file>img/bg.jpg</file>
+    </qresource>
+</RCC>
